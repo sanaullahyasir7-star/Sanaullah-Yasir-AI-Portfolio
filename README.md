@@ -1,6 +1,6 @@
 # Sanaullah Yasir — AI Engineering Portfolio
 
-Responsive, static portfolio featuring ORION and selected AI engineering projects. Includes project filters, an interactive ORION architecture walkthrough, theme controls, reduced-motion support, and a downloadable CV.
+Responsive, static portfolio featuring ORION and selected AI engineering projects. Includes project filters, an interactive ORION architecture walkthrough, theme controls, reduced-motion support, and CV request links.
 
 Built with HTML, CSS, and JavaScript. No build step or external runtime is required.
 
